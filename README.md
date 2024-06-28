@@ -23,7 +23,7 @@ There's also a `manifest.json` file included in the package with a list of the c
 
 ## Using 
 ```
-https://crypto-currency-icons.vercel.app/:size/:color/:name.png
+https://crypto-currency-icons.vercel.app/:size/:color/:symbol.png
 ```
 
 ```
