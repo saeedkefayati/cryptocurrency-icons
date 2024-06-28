@@ -21,6 +21,30 @@ You can then import the icons from `./node_modules/cryptocurrency-icons`, for ex
 
 There's also a `manifest.json` file included in the package with a list of the currency symbol, the name of the icons and the associated colors.
 
+## Using 
+```
+https://crypto-currency-icons.vercel.app/:size/:color/:name.png
+```
+
+```
+https://crypto-currency-icons.vercel.app/128/black/%24pac.png
+```
+
+```
+https://crypto-currency-icons.vercel.app/32/black/%24pac.png
+```
+
+```
+https://crypto-currency-icons.vercel.app/32%402x/black/%24pac%402x.png
+```
+
+```
+https://crypto-currency-icons.vercel.app/originals/%24pac.svg
+```
+
+```
+https://crypto-currency-icons.vercel.app/svg/black/%24pac.svg
+```
 
 ## Special Thanks 👏
 
